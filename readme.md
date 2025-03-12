@@ -20,7 +20,7 @@ The script offers to install missing tools.
 
 ## Usage
 
-1. Clone: `git clone https://github.com/yourusername/project-report-generator.git && cd project-report-generator`
+1. Clone: `git clone https://github.com/AnatoliiS/Project-Report-Generator.git && cd project-report-generator`
 2. Make executable: `chmod +x generate_report.sh`
 3. Run: `./generate_report.sh`
 4. Follow prompts for name, email, exclusions, and ZIP option
